@@ -1,4 +1,4 @@
-for i in range(1, 11):
+for i in range(1, 11): # 1 начальное значение 11 последнее но оно в интервал не включается
     if i == 5:
         pass 
     print('Cycle iteration #',i) 
