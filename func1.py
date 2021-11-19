@@ -1,19 +1,7 @@
-x = 10
-z = 23
-
-def func():
-    a = 20
-    def func1():
-        nonlocal a
-        a =a + 1
-        print(a)
-        def func2():
-            nonlocal a
-            a = a + 2
-            print(a)
-            
-        func2()
+#some_list = [1, 2, 3, 4, 5 ,6]
+def print_list(some_list):
+    for element in the_list:
+        print(element)
         
-    func1()
-    
-func()
+the_list = [0,0,0,0,0,0]
+print_list([1, 2, 3, 4, 5, 6, 7, 8, 9])
