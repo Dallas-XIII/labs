@@ -1,4 +1,4 @@
-def maximum(x, y):
+def maximum(x: 'первое число', y: 'второе число') -> int:
     if x > y:
        return x
     elif x == y:
