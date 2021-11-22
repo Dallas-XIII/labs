@@ -7,3 +7,9 @@ def total(initial = 5, *S, extra_number):
     
 total(10, 1, 2, 3, extra_number = 50)
 #total(10, 1, 2, 3)
+'''fdgdfdfgdfgdfgdfgdf
+dgdfgfd
+dgdfgdf
+gdfgfdg
+dfgdfg
+'''
